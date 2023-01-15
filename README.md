@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Siddharth Vaghela.</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddharth-vaghela/">LinkedIn</a> •
+  <a href="mailto:vaghela.s@northeastern.edu">Outlook</a>
+</p>
 
-<!--
-**siddharthpvaghela/siddharthpvaghela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently MSIS Graduate Student at Northeastern University
+- 🌱 I have 2 years of full-time work experience as an Associate Consultant with Oracle Financial Services Software, where I was primarily responsible for developing banking software.
+I am eager to broaden my knowledge and eventually contribute to the field of software development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+
+
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+-------
